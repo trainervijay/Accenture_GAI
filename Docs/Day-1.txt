@@ -1,0 +1,32 @@
+
+
+1. GAI 
+2. AI,ML, DL, GAI, evolved 
+3. GAI, AI Agent, Agentic AI -> agents
+4. Python, Stremlit, Langchain, langgraph, langsmith -> platform OS -> develop -> Azure service
+    azure -> 
+    langsmith -> 
+5. RAG - concept
+    RAG -> Langchain 
+        1. data , pdf, csv, db, any data source
+        2. 
+        3. how are we passing data to llm 
+    Knowledge Graph RAG - > azure -> microsoft -> 
+    knowlegebase -> aws 
+6. Fine tuneing of your llm 
+7. training of llm model 
+    data prepration 
+
+
+    PE -> where is the bank -> hallucinuation
+        1. the nearby one is riverbank 
+
+    llm -> finance, geography
+
+
+
+Skillable -> Labs 
+    windows system -> 2.5 hours 
+        1. colab 
+        2. personal google account
+

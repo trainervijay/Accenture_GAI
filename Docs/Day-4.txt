@@ -1,0 +1,30 @@
+Day - 4:
+
+Introduction to Agentic AI
+    What is Agentic AI?
+    Options for agent development
+    Self-improving and Autonomous AI Agents
+    Key Characteristics of Agentic AI vs Traditional AI
+    Real-World Applications of Agentic AI
+    Examples with Azure AI Foundry Agent or Semantic Kernel
+
+Comparing Agentic AI and Non-Agentic AI
+    Definition and Characteristics of Agentic AI
+    Key Differences Between Agentic and Non-Agentic AI
+    Use Cases and Architectural Implications
+    When not to use Agentic AI
+
+Architectures for Agentic AI
+    Multi-Agent Systems & AI Orchestration
+    How LLMs & Memory Enhance Agent Autonomy
+    Decision-Making Frameworks in Agentic AI
+    Challenges & Considerations in Deploying Agentic AI
+    [3026 -01]
+
+Building AI Agents with Azure OpenAI
+    Deploying AI Agents for Automation
+    Designing AI agents with Azure AI Services
+    Managing AI Agents in Production
+    Hands-On Lab: Implementing an Autonomous AI Agent
+    Case Study 4: 
+    [3026- 02]

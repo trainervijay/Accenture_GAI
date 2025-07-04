@@ -1,0 +1,32 @@
+
+# Azure OpenAI Fundamentals Course Outline
+Day - 3
+
+Model Use:
+    Applying Prompt Engineering
+    case study: Email responses 
+    [04_prompt_Template]
+
+Generative Models Deep Dive ( Hands-on )
+    Using multiple LLMs 
+    Working with Data loaders - Ingesting documents 
+    Working with text splitters - Chunking Data 
+    Working with Chains (Conversational Retrieval QA, Retrieval QA, Summarization, API etc.)
+    Working with Memory 
+    Working with Embedding
+    Case Study: Work with your own data [Chat with PDF] 
+    [07_RAG_ChatWithPDF]
+    Further Read: [3016: 03 Lab for Azure specific implementation]
+
+Generating Code and Images with Azure OpenAI
+    Constructing Code from Natural Language
+    Enhancing Code with AI Assistants 
+    [05_schema_prompt]
+    Exploring DALL-E for Image Generation
+    Hands-On Lab: Enhancing Code and Image Generation with OpenAI
+    [06_Image_Generation]
+
+
+
+
+

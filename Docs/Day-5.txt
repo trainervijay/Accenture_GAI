@@ -1,0 +1,34 @@
+Day-5
+
+Scalability and Optimization
+    Azure Functions for AI Agent Workflows
+        Scalable Durable function
+    [3026 - 03]
+    Azure Cognitive Search for optimizing agent responses
+    Azure Event Grid & Service Bus for multi-agent communication
+    Understand how Vector Databases enable scalable AI memory management
+    Distributed decision-making and optimization
+    Handling AI agent communication bottlenecks
+    Optimizing response times in multi-agent AI systems
+
+Ethical Considerations and AI Security
+    Identifying and Addressing Biases in AI
+    Ensuring Responsible and Ethical AI Use
+    Securing AI Models with Azure Data Security
+    Hands-On Lab: Securing AI Models on Azure
+    Lab:[08_Security] [3016: 04 https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/06-Explore-content-filters.html]
+
+MCP 
+
+GraphRAG
+
+VS Code Copilot integration with Azure OpenAI
+    Building Custom AI Agents Solutions
+    Consume in Copilot
+    Integrating Azure OpenAI with VS Code GitHub Copilot
+
+Hands-On Lab:
+    Implementing a distributed AI agent framework on Azure.
+    Optimizing multi-agent AI workflows with Azure OpenAI.
+    [3026 - 05]
+case study: copilot, MCP
